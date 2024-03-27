@@ -11,4 +11,4 @@ git clone https://github.com/Mh-Jihad405/Rendom.git
 
 cd Rendom
 
-python JIHAD.py
+python J1HAD.py
